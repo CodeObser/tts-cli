@@ -23,3 +23,15 @@ python3 tts.py "Hello, this is a test." -o output.mp4
 • `-s, --slow: Speak slowly.-f, --format <audio_format>` : Specify the output audio format (choices: mp3, wav; default: mp3).\n
 • `-p, --play` : Play audio after conversion.\n
 • `-ls, --list-languages` : List supported languages.\n
+
+
+## Examples
+
+Convert text to speech in French and save it as a WAV file:
+
+```bash
+python3 tts.py "Bonjour, c'est un test." -o output.wav -l fr -f wav
+```
+
+
+
