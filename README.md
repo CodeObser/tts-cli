@@ -1,8 +1,10 @@
 # Text-to-Speech CLI Tool
 
-This is a command-line tool for converting text to speech using the Google Text-to-Speech API.
+Convert text to speech using Google Text-to-Speech API in your terminal!
 
 ## Installation
 
-1. Make sure you have Python installed on your system.
-2. Install the required dependencies using pip:
+Make sure you have Python 3 and pip installed.
+
+```bash
+pip install -r requirements.txt
