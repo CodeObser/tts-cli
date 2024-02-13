@@ -7,7 +7,7 @@ Convert text to speech using Google Text-to-Speech API in your terminal!
 Make sure you have Python3 and pip installed.
 
 ```bash
-pip3 install https://github.com/CodeObser/tts-cli
+git clone https://github.com/CodeObser/tts-cli
 ```
 
 ```bash
