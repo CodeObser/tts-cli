@@ -9,6 +9,9 @@ Make sure you have Python3 and pip installed.
 ```bash
 git clone https://github.com/CodeObser/tts-cli
 ```
+```bash
+cd tts-cli
+```
 
 ```bash
 pip3 install -r requirements.txt
